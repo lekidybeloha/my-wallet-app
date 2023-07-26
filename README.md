@@ -10,6 +10,12 @@ Used Tech here are
 <li>
 <a href="https://github.com/fkhadra/react-toastify">React Toastify</a>
 </li>
+<li>
+<a href="https://github.com/fkhadra/react-toastify">SQLite for Database</a>
+</li>
+<li>
+<a href="https://github.com/fkhadra/react-toastify">Prisma as ORM</a>
+</li>
 </ul>
 
 Developed with ❤️ by DIMBINIAINA Elkana Vinet
